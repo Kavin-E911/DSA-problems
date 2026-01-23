@@ -1,6 +1,4 @@
-
 import java.util.*;
-
 public class commonword {
 
     public static String mostCommonWord(String paragraph, String[] banned) {

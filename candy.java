@@ -5,7 +5,6 @@ Children with a higher rating than their neighbors get more candies than their n
 Return the minimum number of candies you need to have to distribute. */
 
 import java.util.*;
-
 class candy {
 
     public static int minCandy(int arr[]) {
