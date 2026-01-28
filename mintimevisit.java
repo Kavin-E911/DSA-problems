@@ -12,7 +12,6 @@ You have to visit the points in the same order as they appear in the array.
 You are allowed to pass through points that appear later in the order, but these do not count as visits. */
 
 public class mintimevisit{
-
     public static int minTimeToVisitAllPoints(int[][] points) {
 
         int totalTime = 0;
