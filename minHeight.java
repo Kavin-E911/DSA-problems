@@ -7,7 +7,6 @@ Decrease the height of the tower by k
 Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.*/
 
 import java.util.*;
-
 class minHeight {
     public int getMinDiff(int[] arr, int k) {
         int n = arr.length;
